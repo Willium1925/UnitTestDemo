@@ -1,3 +1,5 @@
+import lee.test_demo.d01.adder;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class adderTest {
